@@ -1,4 +1,5 @@
 Android-Unique-Device-Id
 ========================
 
-Generation of Android Unique Device Id , to identify the App Installations. 
+Generation of Android Unique Device Id , to identify the App Installations.
+Found that the Popular Titanium Backup app also generated the same Unique Id.
