@@ -1,4 +1,4 @@
-package com.example.android_unique_device_id;
+package com.example.uniqueid;
 
 import java.lang.reflect.Method;
 
